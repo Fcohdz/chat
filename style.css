@@ -1,4 +1,4 @@
-﻿.alerter{padding:4px 4px 1px; flex-grow:1; max-height:27px;}
+.alerter{padding:4px 4px 1px; flex-grow:1; max-height:27px;}
 .alerter.notfunctional{background:#050000;}
 	.al-button{float:right; width:16px; height:16px; cursor:pointer;}
 	.al-button:hover{background-position:0px -16px;}
@@ -95,7 +95,7 @@
 		.chatbox-tab{cursor:pointer; border:1px solid rgba(0,0,0,0.6); text-align:center;}
 		.chatbox-tab:hover{background:rgba(0,0,0,0.2);}
 	.chatbox-refresh{}
-	.chatbox-content{background:#9C8D6B; padding:3px; overflow-x:auto;}
+	.chatbox-content{background:#0c1a23; padding:3px; overflow-x:auto;}
 		.chatbox-line{font-size:12px; white-space:nowrap;}
 			.chatbox-linefrag{display:inline;}
 			.chatbox-line-clickable .chatbox-linefrag{cursor:pointer;}
